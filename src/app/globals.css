@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #2563EB;
+  --color-primary-hover: #1D4ED8;
+  --radius: 12px;
+}
+
+@layer base {
+  body {
+    @apply bg-white text-gray-900 font-sans antialiased overflow-x-hidden;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  .glass-nav {
+    @apply bg-white/70 backdrop-blur-md border-b border-gray-100;
+  }
+}
