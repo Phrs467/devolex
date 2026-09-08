@@ -10,6 +10,13 @@ const projects = [
     category: "Catálogo Digital com WhatsApp",
     image: "/proj_home.png",
     link: "https://www.hellomake.com.br/"
+  },
+  {
+    id: 2,
+    title: "Dra. Marília Martins",
+    category: "Instabio 100% Personalizado",
+    image: "/proj_marilia.png",
+    link: "https://www.dramariliamartins.com.br/"
   }
 ];
 
