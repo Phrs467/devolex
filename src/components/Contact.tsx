@@ -69,7 +69,7 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-gray-500 font-medium">WhatsApp</p>
-                  <p className="text-gray-900 font-semibold">+55 (62) 98318-1287</p>
+                  <p className="text-gray-900 font-semibold">+55 (62) 98481-1770</p>
                 </div>
               </div>
               
