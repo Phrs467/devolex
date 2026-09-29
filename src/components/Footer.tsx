@@ -39,7 +39,7 @@ export function Footer() {
             <h4 className="font-semibold text-gray-900 mb-6">Contato</h4>
             <ul className="flex flex-col gap-4">
               <li className="text-gray-500">devolex.digital@gmail.com</li>
-              <li className="text-gray-500">+55 (62) 98318-1287</li>
+              <li className="text-gray-500">+55 (62) 98481-1770</li>
               <li className="text-gray-500">Goiânia, GO</li>
             </ul>
           </div>
